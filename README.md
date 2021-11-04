@@ -1,8 +1,3 @@
-<style type="text/css">
-h1 {color:red;}
-p {color:blue;}
-</style>
-
 ![Header](https://raw.githubusercontent.com/Amn3s1a2018/Amn3s1a2018/main/bar.svg "Header")
 
 I'm a web develooper and artist.
